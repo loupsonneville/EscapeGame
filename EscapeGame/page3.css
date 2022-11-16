@@ -1,0 +1,42 @@
+
+h1 {
+
+  position: absolute;
+  left: 35%;
+  right: 15%;
+  top: 0%;
+  bottom: 80%;
+
+  font-family: 'Wellfleet';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #FFFBFB;
+
+}
+
+legend {
+  position: absolute;
+  left: 40%;
+  right: 15%;
+  top: 5%;
+  bottom: 72%;
+
+  font-family: 'Wellfleet';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #FFFBFB;
+
+}
+

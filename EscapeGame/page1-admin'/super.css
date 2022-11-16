@@ -1,0 +1,193 @@
+body{
+  overflow: hidden;
+  font-family: "Roboto", sans-serif;
+  background-image: url("images/FondEcran.png");
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 20px 0 50px;
+  }
+  
+  .container {
+    margin-top: 100px;
+  }
+  h3 {
+    font-family: 'Wellfleet';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+
+
+color: #FFFFFF;
+    letter-spacing: 2px;
+    margin: 20px 0 50px;
+  }
+
+  h2 {
+    position: absolute;
+    left: 41.67%;
+    right: 44.39%;
+    top: 100%;
+    bottom: 30%;
+
+font-family: 'Wellfleet';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+color: #FFFFFF;
+  }
+  
+  .container {
+    margin-top: 100px;
+  }
+  
+  /*
+  *
+  * ==========================================
+  * PERSONNALISATION DU CHAMP
+  * ==========================================
+  *
+  */
+  .input-group {
+    border-radius: 5px;
+  }
+  
+  input.form-control {
+    border-radius: 5px 0 0 5px;
+    border: solid 1px rgba(0,0,0,.15);
+    border-right: none;
+  }
+  
+  input.form-control:focus {
+    box-shadow: none;
+    border-color: rgba(0,0,0,.15);
+  }
+  
+  input.form-control::placeholder {
+    font-family: 'Open sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+  
+  .input-group-append {
+    border: solid 1px rgba(0,0,0,.15);
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+  }
+  
+  .input-group-text {
+    border-radius: 0 5px 5px 0;
+    color: #04c;
+    background-color: #fff;
+    border: none;
+  }
+  
+  /*
+  *
+  * ==========================================
+  * PERSONNALISATION DU CALENDRIER
+  * ==========================================
+  *
+  */
+  .datepicker-dropdown {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 102px;
+  }
+  
+  .datepicker {
+    padding: 0;
+  }
+  
+  .datepicker td, .datepicker th {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 0.85rem;
+  }
+  
+  .datepicker-dropdown:after {
+    border-bottom-color: #08c;
+  }
+  
+  .datepicker-days .table-condensed thead tr:nth-child(2), .datepicker-months .table-condensed thead tr:nth-child(2),
+  .datepicker-years .table-condensed thead tr:nth-child(2), .datepicker-decades .table-condensed thead tr:nth-child(2),
+  .datepicker-centuries .table-condensed thead tr:nth-child(2) {
+    background: linear-gradient(to bottom,#08c,#04c);
+    color: #fff;
+  }
+  .datepicker-days .table-condensed thead tr:nth-child(2) th:hover, .datepicker-months .table-condensed thead tr:nth-child(2) th:hover,
+  .datepicker-years .table-condensed thead tr:nth-child(2) th:hover,.datepicker-decades .table-condensed thead tr:nth-child(2) th:hover,
+  .datepicker-centuries .table-condensed thead tr:nth-child(2) th:hover {
+    background: linear-gradient(to bottom,#08c,#04c);
+    color: #fff;
+  }
+  
+  .datepicker-days .table-condensed tfoot, .datepicker-months .table-condensed tfoot, .datepicker-years .table-condensed tfoot,
+  .datepicker-decades .table-condensed tfoot, .datepicker-centuries .table-condensed tfoot {
+    border-top: solid 1px rgba(0,0,0,.15);
+  }
+  
+  /*
+  *
+  * ==========================================
+  * tableau heure
+  * ==========================================
+  *
+  */
+  .container-1 {
+    position: absolute;
+    left: 48%;
+    right: 50%;
+    top: 47%;
+    bottom: 5.36%;
+    
+    margin-right: 6px;
+   }
+
+   .button-profil{
+    position: absolute;
+    left: 80%;
+    right: 15%;
+    top: 2.58%;
+    bottom: 92.89%;
+   }
+   .button-deconnexion{
+    position: absolute;
+    left: 88.39%;
+    right: 0.57%;
+    top: 2.58%;
+    bottom: 92.89%;
+   }
+  .table{
+
+
+    position: absolute;
+    left: 30.73%;
+    right: 27.81%;
+    top: 26.6%;
+    bottom: 19.69%;
+    
+    
+  }
+  .Maison{
+
+    position: absolute;
+left: 2.34%;
+right: 91.26%;
+top: 2.58%;
+bottom: 88.97%;
+  }
+  .ajouter-superviseur{
+    position: absolute;
+left: 81.04%;
+right: 2.97%;
+top: 86.7%;
+bottom: 6.19%;
+
+  }
+
+  

@@ -1,0 +1,37 @@
+h5{
+    
+  position: absolute;
+  left: 100%;
+  right: 5%;
+  top: 15%;
+  bottom: 10%;
+  
+  
+  padding-left: 10%;
+  font-family: 'Wellfleet';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  color: #bd0f0f;
+}
+.liendate{
+  position: absolute;
+  left: 100%;
+  right: 5%;
+  top: 15%;
+  bottom: 10%;
+  
+  padding-left: 10%;
+  font-family: 'Wellfleet';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  color: #5a0fbd;
+}
+h6{
+  
+  font-size: 24px;
+  font-family: 'Wellfleet';
+  font-style: normal;
+  color: #ffffff;
+}

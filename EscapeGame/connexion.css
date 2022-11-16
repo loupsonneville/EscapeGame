@@ -1,0 +1,27 @@
+
+.btn1btn-outline-light{
+
+  position:absolute;
+  top: 80%;
+  left: 13%;
+}
+.bouton-accueil {
+
+  position: absolute;
+  display: flex;
+  justify-content: left;
+  margin-left: 60px;
+
+  @media screen and(max-width: 1024px) {
+  
+    display: flex;
+    justify-content: center;
+  }
+}
+h3{
+  font-family: 'Wellfleet';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #bd0f0f;
+}

@@ -1,0 +1,177 @@
+.Maison{
+
+  position: absolute;
+  left: 2.34%;
+  right: 91.26%;
+  top: 2.58%;
+  bottom: 88.97%;
+}
+.button-profil {
+  position: absolute;
+  left: 80%;
+  right: 1%;
+  top: 2.58%;
+  bottom: 92.89%;
+}
+  
+.button-deconnexion {
+  position: absolute;
+  left: 88.39%;
+  right: 0.57%;
+  top: 2.58%;
+  bottom: 92.89%;
+}
+.bouton-accueil {
+
+  position: absolute;
+  left: 5%;
+  right: 100%;
+  top: 7.33%;
+  bottom: 85.57%;
+  
+  
+}
+.ajouter-superviseur {
+  position: absolute;
+  left: 81.04%;
+  right: 2.97%;
+  top: 86.7%;
+  bottom: 6.19%;
+
+}
+
+.ajouter-creneaux {
+  position: absolute;
+  left: 81.04%;
+  right: 2.97%;
+  top: 86.7%;
+  bottom: 6.19%;
+  width: 15%;
+
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.container-1 {
+  position: absolute;
+  left: 48%;
+  right: 50%;
+  top: 47%;
+  bottom: 5.36%;
+
+  margin-right: 6px;
+}
+
+.bouton-valider {
+  position: absolute;
+  left: 81.04%;
+  right: 2.97%;
+  top: 86.7%;
+  bottom: 50%;
+
+}
+
+.btn1btn-outline-light{
+
+  position:absolute;
+  top: 80%;
+  left: 28%;
+}
+.col-12{
+  bottom: 10%;
+  
+}
+.reserver-un-creneau {
+  
+  position: absolute;
+  display: flex;
+  justify-content: center;
+
+  @media screen and(max-width: 1024px) {
+
+    display: none;
+  }
+}
+  
+.LogoEscapeGame {
+  position: absolute;
+  left: 30.47%;
+  right: 27.97%;
+  top: 17.01%;
+  bottom: 57.06%;
+
+  @media screen and(max-width: 1024px){
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+   
+.connexion-prive {
+	
+  display: flex;
+  justify-content: flex-end;
+	font-size: 20px;
+	margin-top: 20px;
+	border: 0;
+  line-height: 2.5;
+  text-align: center;
+  color: #fff;
+  border-radius: 10px;
+  background-color: orange;
+  
+  @media screen and(max-width: 1024px) {
+
+    display: none;
+  }
+}
+
+.connexion-prive:hover {
+  background-color: #ff7f00;
+}
+  
+.bouton a {
+	display:block;
+	width:150px;
+	line-height:50px; 
+	text-align:center;
+	vertical-align:middle;
+	background:url(images/bouton-noir.png) no-repeat;
+	color:white;
+	text-decoration:none;
+  
+}
+
+.logo-telethon {
+  position: static;
+  display: flex;
+  justify-content: flex-start;
+
+  @media screen and(max-width: 1024px){
+
+    width: 200px;
+    height: 150px;
+  }
+}
+.bouton-reserver {
+
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  top: 80%;
+  bottom: 1%;
+}
+
+.LogoValidation{
+  position: absolute;
+  left: 45%;
+  right: 15%;
+  top: 10%;
+  bottom: 55%;
+
+
+}
+ 

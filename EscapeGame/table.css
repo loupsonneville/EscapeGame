@@ -1,0 +1,18 @@
+.table {
+    
+    position: absolute;
+    left: 35%;
+    right: 27.81%;
+    top: 26.6%;
+    bottom: 19.69%;
+  
+  }
+  .my-custom-scrollbar {
+    position: relative;
+    height: 800px;
+    overflow: auto;
+    top: 26.6%;
+    bottom: 19.69%;
+  
+  }
+  
